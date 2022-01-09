@@ -1,4 +1,4 @@
-# hw1_log_analyze
+# hw1_Poker
 > Домашнее задание 1 otus
 
 ![](header.png)
